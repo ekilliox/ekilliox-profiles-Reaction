@@ -1,13 +1,11 @@
 {
-  "Id": "MCH R1",
-  "Name": "MCH R1",
-  "Description": "is  Machinist",
+  "Id": "1",
+  "Name": "MCH AUTO MIT",
+  "Description": "",
   "CreatedAt": "2025-12-28T00:00:00Z",
   "ModifiedAt": "2025-12-28T00:00:00Z",
   "Version": "1.0.0",
-  "Entries": []
-},
-{
+  "Entries": [{
   "Id": "auto mit dpsOnWipe Opener",
   "Name": "auto mit dps/OnWipe Opener",
   "Description": "",
@@ -3142,4 +3140,5 @@
       "bcdddb2e-db7d-40fc-8632-651d1bff02c9": true
     }
   }
+}]
 }
