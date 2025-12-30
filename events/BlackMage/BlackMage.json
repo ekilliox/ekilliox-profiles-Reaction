@@ -3,7 +3,7 @@
   "Name": "Blackmage",
   "Description": "",
   "CreatedAt": "2025-09-07T15:27:36.6567597Z",
-  "ModifiedAt": "2025-12-30T18:40:12.0753161Z",
+  "ModifiedAt": "2025-12-30T18:43:41.5635485Z",
   "Events": [
     {
       "Id": "bedd208a-ebf2-4f96-aa97-c8bd814ee2a7",
@@ -487,33 +487,8 @@
           "VariableOperation": 0
         },
         {
-          "Id": "c03f39cd-6e70-43bd-bbfb-7194c8c69326",
-          "ActionId": 34685,
-          "SkillbarId": "",
-          "TTSText": "",
-          "TriggerType": 0,
-          "LogicOperator": 0,
-          "TargetType": 0,
-          "TargetSelectionStrategy": 6,
-          "SkipBuffId": 0,
-          "TargetOperation": 0,
-          "TargetDataId": 0,
-          "TargetName": "",
-          "TargetX": 0.0,
-          "TargetY": 0.0,
-          "TargetZ": 0.0,
-          "OverlayText": "",
-          "OverlayDuration": 3.0,
-          "VariableName": "",
-          "VariableType": 0,
-          "VariableBoolValue": true,
-          "VariableStringValue": "",
-          "VariableNumberValue": 0.0,
-          "VariableOperation": 0
-        },
-        {
-          "Id": "ffe3aaf7-1099-4a00-aa6e-f1d92f551d14",
-          "ActionId": 34686,
+          "Id": "91420007-2d47-4237-844f-13511818625d",
+          "ActionId": 157,
           "SkillbarId": "",
           "TTSText": "",
           "TriggerType": 0,
@@ -538,8 +513,8 @@
         }
       ],
       "CreatedAt": "2025-09-08T08:51:04.1256848Z",
-      "ModifiedAt": "2025-10-28T18:04:07.9192474Z",
-      "ExecuteFirstOnly": true
+      "ModifiedAt": "2025-12-30T18:44:11.5120821Z",
+      "ExecuteFirstOnly": false
     },
     {
       "Id": "0650ee7b-641f-4461-8170-48a02778df47",
@@ -623,9 +598,9 @@
       }
     ],
     "ToggleStates": {
-      "9f51548a-d631-41a0-9fa3-7e2b093f4399": false,
-      "bcdddb2e-db7d-40fc-8632-651d1bff02c9": false
+      "9f51548a-d631-41a0-9fa3-7e2b093f4399": true,
+      "bcdddb2e-db7d-40fc-8632-651d1bff02c9": true
     }
   },
-  "Version": "1.0.3"
+  "Version": "1.0.0"
 }
