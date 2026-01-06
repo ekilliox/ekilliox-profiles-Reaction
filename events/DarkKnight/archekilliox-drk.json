@@ -3,7 +3,7 @@
   "Name": "archekilliox-drk",
   "Description": "",
   "CreatedAt": "2025-08-14T04:53:49.8169798Z",
-  "ModifiedAt": "2026-01-05T23:33:11.8851715Z",
+  "ModifiedAt": "2026-01-06T04:28:51.302693Z",
   "Events": [
     {
       "Id": "3b4c3657-448e-452f-952d-ea562cf330fb",
@@ -17,7 +17,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:29:16.5924414Z",
-      "ModifiedAt": "2026-01-05T23:33:14.2206755Z"
+      "ModifiedAt": "2026-01-06T04:29:23.8278873Z"
     },
     {
       "Id": "732a7c9a-5487-474b-bb80-91bf92cd7e74",
@@ -31,7 +31,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:23:27.0455383Z",
-      "ModifiedAt": "2026-01-05T23:33:15.8411155Z"
+      "ModifiedAt": "2026-01-06T04:29:25.3117625Z"
     },
     {
       "Id": "565fe51c-9d06-4338-bb4e-ad1d0cba3e32",
@@ -45,7 +45,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:28:17.4766558Z",
-      "ModifiedAt": "2026-01-05T23:33:17.2881613Z"
+      "ModifiedAt": "2026-01-06T04:29:27.5108273Z"
     },
     {
       "Id": "1b066cf9-12d8-450d-866e-677d61da153d",
@@ -59,7 +59,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:27:33.1643991Z",
-      "ModifiedAt": "2026-01-05T23:33:18.738408Z"
+      "ModifiedAt": "2026-01-06T04:29:28.8607877Z"
     },
     {
       "Id": "a6cdc6d2-6171-4f55-8f53-dbde09c85e86",
@@ -73,7 +73,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-13T05:47:18.104461Z",
-      "ModifiedAt": "2026-01-05T23:33:20.1437543Z"
+      "ModifiedAt": "2026-01-06T04:29:30.2023814Z"
     },
     {
       "Id": "08c75b56-6f6e-4b0c-88f7-7f58282253c4",
@@ -87,7 +87,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-10-06T20:54:10.239536Z",
-      "ModifiedAt": "2026-01-05T23:33:21.402805Z"
+      "ModifiedAt": "2026-01-06T04:29:31.5802777Z"
     },
     {
       "Id": "5a47325b-00d5-4e36-8843-040393757b89",
@@ -101,7 +101,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-11-29T20:46:01.621465Z",
-      "ModifiedAt": "2026-01-05T23:33:22.6806429Z"
+      "ModifiedAt": "2026-01-06T04:29:33.6226139Z"
     },
     {
       "Id": "78f2c611-1379-41d2-a2bd-26f59e78abb9",
@@ -115,7 +115,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T00:06:54.3440002Z",
-      "ModifiedAt": "2026-01-05T23:33:24.0172576Z"
+      "ModifiedAt": "2026-01-06T04:29:35.5126175Z"
     },
     {
       "Id": "0f848527-2363-4851-9ca7-73666e9414b1",
@@ -129,7 +129,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T00:14:50.1039412Z",
-      "ModifiedAt": "2026-01-05T23:33:25.1782272Z"
+      "ModifiedAt": "2026-01-06T04:29:37.1066239Z"
     },
     {
       "Id": "65f5a501-e2a1-47af-9a1f-9c3b22f298a3",
@@ -143,7 +143,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T21:52:11.3787339Z",
-      "ModifiedAt": "2026-01-05T23:33:26.5718458Z"
+      "ModifiedAt": "2026-01-06T04:29:38.7345534Z"
     },
     {
       "Id": "ff269048-453d-4cee-96a3-f8634242eef1",
@@ -157,7 +157,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-05T23:15:25.6106662Z",
-      "ModifiedAt": "2026-01-05T23:33:27.8170669Z"
+      "ModifiedAt": "2026-01-06T04:29:40.013204Z"
     }
   ],
   "Conditions": [
@@ -5731,16 +5731,6 @@
         "Position": 6
       },
       {
-        "Id": "677f6fdc-4fbc-444f-9b40-c7d54eee8ec0",
-        "Name": "Aurora",
-        "Description": "Use aurora to heal self",
-        "EventIds": [
-          "f6a9ba02-bb93-406b-b7ad-b171fc3aa3d0"
-        ],
-        "Enabled": true,
-        "Position": 7
-      },
-      {
         "Id": "64f18124-b422-43d8-b2fd-fc359af1a6d7",
         "Name": "2 Mits AOE",
         "Description": "",
@@ -5748,7 +5738,7 @@
           "565fe51c-9d06-4338-bb4e-ad1d0cba3e32"
         ],
         "Enabled": true,
-        "Position": 8
+        "Position": 7
       },
       {
         "Id": "d81f6bcd-392e-4561-a03f-2c2989e6fb45",
@@ -5758,7 +5748,7 @@
           "1b066cf9-12d8-450d-866e-677d61da153d"
         ],
         "Enabled": true,
-        "Position": 9
+        "Position": 8
       },
       {
         "Id": "df6d1cc3-cd46-477a-9300-24ab349e9872",
@@ -5768,7 +5758,7 @@
           "a6cdc6d2-6171-4f55-8f53-dbde09c85e86"
         ],
         "Enabled": true,
-        "Position": 10
+        "Position": 9
       },
       {
         "Id": "016f904b-11db-4135-9de6-25bd4634bca7",
@@ -5778,17 +5768,7 @@
           "78f2c611-1379-41d2-a2bd-26f59e78abb9"
         ],
         "Enabled": true,
-        "Position": 11
-      },
-      {
-        "Id": "c914f1a7-4786-4ea2-a9a3-01f150b36872",
-        "Name": "Aurora OT",
-        "Description": "",
-        "EventIds": [
-          "b1a53fa1-f7f0-433b-ab95-0a01e86b12dd"
-        ],
-        "Enabled": true,
-        "Position": 12
+        "Position": 10
       },
       {
         "Id": "6794c678-5c6f-45a5-88c6-d4f19b40bdf8",
@@ -5798,7 +5778,7 @@
           "0f848527-2363-4851-9ca7-73666e9414b1"
         ],
         "Enabled": true,
-        "Position": 13
+        "Position": 11
       },
       {
         "Id": "1b7bb064-7498-48a8-b688-0d0dd7980028",
@@ -5808,15 +5788,17 @@
           "65f5a501-e2a1-47af-9a1f-9c3b22f298a3"
         ],
         "Enabled": true,
-        "Position": 14
+        "Position": 12
       },
       {
         "Id": "c240fe0c-0feb-485e-a73b-b4724ee81e01",
         "Name": "Stance OT",
         "Description": "Stance Management for OT",
-        "EventIds": [],
+        "EventIds": [
+          "ff269048-453d-4cee-96a3-f8634242eef1"
+        ],
         "Enabled": true,
-        "Position": 15
+        "Position": 13
       }
     ],
     "ToggleStates": {
@@ -5824,7 +5806,6 @@
       "fd6236e3-f1d4-46c5-96a0-117c052adff4": false,
       "072fc9c0-2923-42c1-90e4-8aa220eba0a0": true,
       "9f65fecb-9378-499c-9c4f-88bd603bb1c5": true,
-      "677f6fdc-4fbc-444f-9b40-c7d54eee8ec0": false,
       "64f18124-b422-43d8-b2fd-fc359af1a6d7": false,
       "d81f6bcd-392e-4561-a03f-2c2989e6fb45": false,
       "df6d1cc3-cd46-477a-9300-24ab349e9872": false,
@@ -5832,11 +5813,10 @@
       "969c86f4-4076-445b-8f68-b16cb511e458": false,
       "73595275-5d4a-47ef-b3fb-b958d824781f": true,
       "016f904b-11db-4135-9de6-25bd4634bca7": true,
-      "c914f1a7-4786-4ea2-a9a3-01f150b36872": true,
       "6794c678-5c6f-45a5-88c6-d4f19b40bdf8": false,
       "1b7bb064-7498-48a8-b688-0d0dd7980028": false,
       "c240fe0c-0feb-485e-a73b-b4724ee81e01": true
     }
   },
-  "Version": "1.0.2"
+  "Version": "1.0.3"
 }
