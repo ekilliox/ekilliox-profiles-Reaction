@@ -3,25 +3,11 @@
   "Name": "archekilliox-drk",
   "Description": "",
   "CreatedAt": "2025-08-14T04:53:49.8169798Z",
-  "ModifiedAt": "2026-01-06T05:34:03.6780816Z",
+  "ModifiedAt": "2026-01-10T22:53:31.1060707Z",
   "Events": [
     {
-      "Id": "3b4c3657-448e-452f-952d-ea562cf330fb",
-      "Name": "Mit TankBuster",
-      "Description": "",
-      "EventType": "OnAllTankBuster",
-      "LogicId": "ba5672cb-cc11-494b-ad31-90f80ee8a573",
-      "ThrottleSameEvent": 0.5,
-      "ThrottleAllEvents": 0.1,
-      "Timeout": 8.0,
-      "RecheckDuration": 0.0,
-      "Filters": {},
-      "CreatedAt": "2025-08-12T20:29:16.5924414Z",
-      "ModifiedAt": "2026-01-06T05:33:58.7728304Z"
-    },
-    {
       "Id": "732a7c9a-5487-474b-bb80-91bf92cd7e74",
-      "Name": "Reprisal AOE",
+      "Name": "Reprisal Raidwide",
       "Description": "",
       "EventType": "OnAllAOE",
       "LogicId": "7a951ef0-f39b-45bd-b174-692b47fdfa76",
@@ -31,7 +17,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:23:27.0455383Z",
-      "ModifiedAt": "2026-01-06T05:33:58.7728387Z"
+      "ModifiedAt": "2026-01-10T22:49:46.2271604Z"
     },
     {
       "Id": "565fe51c-9d06-4338-bb4e-ad1d0cba3e32",
@@ -45,7 +31,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:28:17.4766558Z",
-      "ModifiedAt": "2026-01-06T05:33:58.7728392Z"
+      "ModifiedAt": "2026-01-10T22:46:52.2066916Z"
     },
     {
       "Id": "1b066cf9-12d8-450d-866e-677d61da153d",
@@ -59,7 +45,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:27:33.1643991Z",
-      "ModifiedAt": "2026-01-06T05:33:58.7728396Z"
+      "ModifiedAt": "2026-01-10T22:46:52.206692Z"
     },
     {
       "Id": "a6cdc6d2-6171-4f55-8f53-dbde09c85e86",
@@ -73,7 +59,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-13T05:47:18.104461Z",
-      "ModifiedAt": "2026-01-06T05:33:58.7728401Z"
+      "ModifiedAt": "2026-01-10T22:46:52.2066923Z"
     },
     {
       "Id": "08c75b56-6f6e-4b0c-88f7-7f58282253c4",
@@ -87,7 +73,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-10-06T20:54:10.239536Z",
-      "ModifiedAt": "2026-01-06T05:33:58.7728406Z"
+      "ModifiedAt": "2026-01-10T22:46:52.2066927Z"
     },
     {
       "Id": "5a47325b-00d5-4e36-8843-040393757b89",
@@ -101,7 +87,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-11-29T20:46:01.621465Z",
-      "ModifiedAt": "2026-01-06T05:33:58.7728414Z"
+      "ModifiedAt": "2026-01-10T22:46:52.2066931Z"
     },
     {
       "Id": "78f2c611-1379-41d2-a2bd-26f59e78abb9",
@@ -115,7 +101,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T00:06:54.3440002Z",
-      "ModifiedAt": "2026-01-06T05:33:58.7728421Z"
+      "ModifiedAt": "2026-01-10T22:46:52.2066934Z"
     },
     {
       "Id": "0f848527-2363-4851-9ca7-73666e9414b1",
@@ -129,7 +115,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T00:14:50.1039412Z",
-      "ModifiedAt": "2026-01-06T05:33:58.7728427Z"
+      "ModifiedAt": "2026-01-10T22:46:52.2066936Z"
     },
     {
       "Id": "65f5a501-e2a1-47af-9a1f-9c3b22f298a3",
@@ -143,7 +129,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T21:52:11.3787339Z",
-      "ModifiedAt": "2026-01-06T05:33:58.772843Z"
+      "ModifiedAt": "2026-01-10T22:46:52.2066944Z"
     },
     {
       "Id": "ff269048-453d-4cee-96a3-f8634242eef1",
@@ -157,7 +143,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-05T23:15:25.6106662Z",
-      "ModifiedAt": "2026-01-06T05:33:58.7728435Z"
+      "ModifiedAt": "2026-01-10T22:46:52.2066951Z"
     },
     {
       "Id": "969ee413-5f3f-4ce5-98dc-27d8ca75ed49",
@@ -171,7 +157,35 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-06T05:30:50.7868931Z",
-      "ModifiedAt": "2026-01-06T05:33:58.7695681Z"
+      "ModifiedAt": "2026-01-10T22:46:52.2066955Z"
+    },
+    {
+      "Id": "cc1d539f-c249-4887-a23f-04a05e600984",
+      "Name": "Stun Mob",
+      "Description": "",
+      "EventType": "OnTick",
+      "LogicId": "fa383a66-ebbe-406a-817d-8b78baf5ab27",
+      "ThrottleSameEvent": 0.5,
+      "ThrottleAllEvents": 0.1,
+      "Timeout": 5.0,
+      "RecheckDuration": 0.0,
+      "Filters": {},
+      "CreatedAt": "2026-01-08T00:56:32.2906766Z",
+      "ModifiedAt": "2026-01-10T22:46:52.2037215Z"
+    },
+    {
+      "Id": "791af853-2570-4b4f-a738-2ef9784b5aca",
+      "Name": "Dark Missionary Raidwide",
+      "Description": "",
+      "EventType": "OnAllAOE",
+      "LogicId": "93a1dc02-1644-41ba-8d59-bb02bd1dde1c",
+      "ThrottleSameEvent": 0.5,
+      "ThrottleAllEvents": 0.1,
+      "Timeout": 5.0,
+      "RecheckDuration": 0.0,
+      "Filters": {},
+      "CreatedAt": "2026-01-10T22:49:11.065503Z",
+      "ModifiedAt": "2026-01-10T22:49:29.0551105Z"
     }
   ],
   "Conditions": [
@@ -4955,6 +4969,408 @@
       "CreatedAt": "2026-01-06T05:22:59.1874109Z",
       "ModifiedAt": "2026-01-06T05:27:49.9379985Z",
       "ExcludeFromTargetAccumulation": false
+    },
+    {
+      "Id": "7c68d44d-39d1-4d88-b265-a4627666ba0d",
+      "Name": "Stun Mob",
+      "Description": "",
+      "SubConditions": [
+        {
+          "Id": "ec48e077-338a-4419-ac67-7118a8147d40",
+          "Name": "Is Casting",
+          "Description": "",
+          "TargetType": 1,
+          "ConditionType": 16,
+          "Parameters": {
+            "BuffParams": {
+              "StatusId": 0,
+              "StatusIds": [],
+              "UseMultipleStatuses": false,
+              "StatusLogic": 1,
+              "CheckDuration": false,
+              "MinDuration": 0.0,
+              "DurationComparison": 3,
+              "CheckStacks": false,
+              "RequiredStacks": 1,
+              "StackComparison": 3,
+              "InvertCheck": false,
+              "RequiredBuffCount": 2,
+              "BuffCountComparison": 3,
+              "StatusTargetOverrides": {},
+              "IsEnabled": true
+            },
+            "HealthParams": {
+              "Percentage": 100.0,
+              "Comparison": 1,
+              "UseRawValue": false,
+              "RawValue": 1000,
+              "IsEnabled": true
+            },
+            "DistanceParams": {
+              "Distance": 0.0,
+              "Comparison": 1,
+              "CheckLineOfSight": false,
+              "IsEnabled": true
+            },
+            "GaugeParams": {
+              "PropertyName": "",
+              "ValueType": 0,
+              "NumericValue": 0.0,
+              "BooleanValue": false,
+              "StringValue": "",
+              "Comparison": 3,
+              "IsEnabled": true
+            },
+            "MpParams": {
+              "Percentage": 100.0,
+              "Comparison": 1,
+              "UseRawValue": false,
+              "RawValue": 1000,
+              "IsEnabled": true
+            },
+            "LastAbilityParams": {
+              "AbilityId": 1,
+              "TimeThreshold": 0.5,
+              "TimeComparison": 1,
+              "IsEnabled": true
+            },
+            "LastGcdParams": {
+              "AbilityId": 1,
+              "TimeThreshold": 0.5,
+              "TimeComparison": 1,
+              "IsEnabled": true
+            },
+            "CooldownParams": {
+              "AbilityId": 1,
+              "TimeThreshold": 0.0,
+              "TimeComparison": 2,
+              "CheckCharges": false,
+              "RequiredCharges": 1,
+              "IsEnabled": true
+            },
+            "ComboParams": {
+              "ComboId": 1,
+              "TimeRemaining": 0.0,
+              "TimeComparison": 3,
+              "IsEnabled": true
+            },
+            "MovementParams": {
+              "ExpectedState": true,
+              "IsEnabled": true
+            },
+            "ChannelingParams": {
+              "IsChanneling": true,
+              "SpecificAbilityId": 0,
+              "IsEnabled": true
+            },
+            "AggroParams": {
+              "HasAggro": true,
+              "AggroPosition": 1,
+              "PositionComparison": 2,
+              "IsEnabled": true
+            },
+            "AlwaysParams": {
+              "ExpectedState": true,
+              "IsEnabled": true
+            },
+            "InCombatParams": {
+              "ExpectedState": true,
+              "IsEnabled": true
+            },
+            "ActionHighlightedParams": {
+              "ActionId": 1,
+              "IsEnabled": true
+            },
+            "IsCastingParams": {
+              "IsCasting": true,
+              "SpecificActionId": 0,
+              "CheckSpecific": false,
+              "IsEnabled": true
+            },
+            "GcdTimeRemainingParams": {
+              "TimeThreshold": 2.5,
+              "Comparison": 1,
+              "IsEnabled": true
+            },
+            "CanInterruptParams": {
+              "CanInterrupt": true,
+              "IsEnabled": true
+            },
+            "EntityIdParams": {
+              "EntityId": 0,
+              "Comparison": 2,
+              "IsEnabled": true
+            },
+            "PartyHpAverageParams": {
+              "Percentage": 50.0,
+              "Comparison": 1,
+              "IsEnabled": true
+            },
+            "PartyHpLowestParams": {
+              "Percentage": 50.0,
+              "Comparison": 1,
+              "LowestMemberCount": 4,
+              "UseLowestMemberPercentage": false,
+              "LowestMemberPercentage": 50.0,
+              "IsEnabled": true
+            },
+            "PartyHpBandsParams": {
+              "CriticalThreshold": 30.0,
+              "LowThreshold": 50.0,
+              "ModerateThreshold": 70.0,
+              "RequiredCritical": 1,
+              "RequiredLow": 3,
+              "RequiredModerate": 5,
+              "BandLogic": 0,
+              "IsEnabled": true
+            },
+            "ActionChargesParams": {
+              "ActionId": 1,
+              "RequiredCharges": 1,
+              "Comparison": 3,
+              "CheckType": 0,
+              "TimeThreshold": 0.0,
+              "TimeComparison": 1,
+              "IsEnabled": true
+            },
+            "AggroCountParams": {
+              "RequiredCount": 1,
+              "CountComparison": 3,
+              "IsEnabled": true
+            },
+            "ShieldParams": {
+              "Percentage": 100.0,
+              "Comparison": 1,
+              "UseRawValue": false,
+              "RawValue": 1000,
+              "IsEnabled": true
+            },
+            "PartyShieldAverageParams": {
+              "Percentage": 20.0,
+              "Comparison": 3,
+              "IsEnabled": true
+            },
+            "VariableParams": {
+              "VariableName": "",
+              "VariableType": 0,
+              "ExpectedBoolValue": true,
+              "ExpectedStringValue": "",
+              "ExpectedNumberValue": 0.0,
+              "Comparison": 2,
+              "StringComparison": 0,
+              "InvertCheck": false,
+              "CheckExists": false,
+              "IsEnabled": true
+            }
+          },
+          "RequiredTargetCount": 1,
+          "TargetCountComparison": 3,
+          "UsePercentageMode": true,
+          "RequiredTargetPercentage": 50.0,
+          "CreatedAt": "2026-01-08T00:50:27.7255085Z",
+          "ModifiedAt": "2026-01-08T00:50:27.7255086Z",
+          "ShouldUseTargetCount": false
+        },
+        {
+          "Id": "bde656f0-8ba4-4d1b-86f9-1ea54f536d0c",
+          "Name": "Range check",
+          "Description": "",
+          "TargetType": 1,
+          "ConditionType": 3,
+          "Parameters": {
+            "BuffParams": {
+              "StatusId": 0,
+              "StatusIds": [],
+              "UseMultipleStatuses": false,
+              "StatusLogic": 1,
+              "CheckDuration": false,
+              "MinDuration": 0.0,
+              "DurationComparison": 3,
+              "CheckStacks": false,
+              "RequiredStacks": 1,
+              "StackComparison": 3,
+              "InvertCheck": false,
+              "RequiredBuffCount": 2,
+              "BuffCountComparison": 3,
+              "StatusTargetOverrides": {},
+              "IsEnabled": true
+            },
+            "HealthParams": {
+              "Percentage": 100.0,
+              "Comparison": 1,
+              "UseRawValue": false,
+              "RawValue": 1000,
+              "IsEnabled": true
+            },
+            "DistanceParams": {
+              "Distance": 4.0,
+              "Comparison": 1,
+              "CheckLineOfSight": false,
+              "IsEnabled": true
+            },
+            "GaugeParams": {
+              "PropertyName": "",
+              "ValueType": 0,
+              "NumericValue": 0.0,
+              "BooleanValue": false,
+              "StringValue": "",
+              "Comparison": 3,
+              "IsEnabled": true
+            },
+            "MpParams": {
+              "Percentage": 100.0,
+              "Comparison": 1,
+              "UseRawValue": false,
+              "RawValue": 1000,
+              "IsEnabled": true
+            },
+            "LastAbilityParams": {
+              "AbilityId": 1,
+              "TimeThreshold": 0.5,
+              "TimeComparison": 1,
+              "IsEnabled": true
+            },
+            "LastGcdParams": {
+              "AbilityId": 1,
+              "TimeThreshold": 0.5,
+              "TimeComparison": 1,
+              "IsEnabled": true
+            },
+            "CooldownParams": {
+              "AbilityId": 1,
+              "TimeThreshold": 0.0,
+              "TimeComparison": 2,
+              "CheckCharges": false,
+              "RequiredCharges": 1,
+              "IsEnabled": true
+            },
+            "ComboParams": {
+              "ComboId": 1,
+              "TimeRemaining": 0.0,
+              "TimeComparison": 3,
+              "IsEnabled": true
+            },
+            "MovementParams": {
+              "ExpectedState": true,
+              "IsEnabled": true
+            },
+            "ChannelingParams": {
+              "IsChanneling": true,
+              "SpecificAbilityId": 0,
+              "IsEnabled": true
+            },
+            "AggroParams": {
+              "HasAggro": true,
+              "AggroPosition": 1,
+              "PositionComparison": 2,
+              "IsEnabled": true
+            },
+            "AlwaysParams": {
+              "ExpectedState": true,
+              "IsEnabled": true
+            },
+            "InCombatParams": {
+              "ExpectedState": true,
+              "IsEnabled": true
+            },
+            "ActionHighlightedParams": {
+              "ActionId": 1,
+              "IsEnabled": true
+            },
+            "IsCastingParams": {
+              "IsCasting": true,
+              "SpecificActionId": 0,
+              "CheckSpecific": false,
+              "IsEnabled": true
+            },
+            "GcdTimeRemainingParams": {
+              "TimeThreshold": 2.5,
+              "Comparison": 1,
+              "IsEnabled": true
+            },
+            "CanInterruptParams": {
+              "CanInterrupt": true,
+              "IsEnabled": true
+            },
+            "EntityIdParams": {
+              "EntityId": 0,
+              "Comparison": 2,
+              "IsEnabled": true
+            },
+            "PartyHpAverageParams": {
+              "Percentage": 50.0,
+              "Comparison": 1,
+              "IsEnabled": true
+            },
+            "PartyHpLowestParams": {
+              "Percentage": 50.0,
+              "Comparison": 1,
+              "LowestMemberCount": 4,
+              "UseLowestMemberPercentage": false,
+              "LowestMemberPercentage": 50.0,
+              "IsEnabled": true
+            },
+            "PartyHpBandsParams": {
+              "CriticalThreshold": 30.0,
+              "LowThreshold": 50.0,
+              "ModerateThreshold": 70.0,
+              "RequiredCritical": 1,
+              "RequiredLow": 3,
+              "RequiredModerate": 5,
+              "BandLogic": 0,
+              "IsEnabled": true
+            },
+            "ActionChargesParams": {
+              "ActionId": 1,
+              "RequiredCharges": 1,
+              "Comparison": 3,
+              "CheckType": 0,
+              "TimeThreshold": 0.0,
+              "TimeComparison": 1,
+              "IsEnabled": true
+            },
+            "AggroCountParams": {
+              "RequiredCount": 1,
+              "CountComparison": 3,
+              "IsEnabled": true
+            },
+            "ShieldParams": {
+              "Percentage": 100.0,
+              "Comparison": 1,
+              "UseRawValue": false,
+              "RawValue": 1000,
+              "IsEnabled": true
+            },
+            "PartyShieldAverageParams": {
+              "Percentage": 20.0,
+              "Comparison": 3,
+              "IsEnabled": true
+            },
+            "VariableParams": {
+              "VariableName": "",
+              "VariableType": 0,
+              "ExpectedBoolValue": true,
+              "ExpectedStringValue": "",
+              "ExpectedNumberValue": 0.0,
+              "Comparison": 2,
+              "StringComparison": 0,
+              "InvertCheck": false,
+              "CheckExists": false,
+              "IsEnabled": true
+            }
+          },
+          "RequiredTargetCount": 1,
+          "TargetCountComparison": 3,
+          "UsePercentageMode": true,
+          "RequiredTargetPercentage": 50.0,
+          "CreatedAt": "2026-01-08T00:57:29.6282038Z",
+          "ModifiedAt": "2026-01-08T00:57:29.6282038Z",
+          "ShouldUseTargetCount": false
+        }
+      ],
+      "CreatedAt": "2026-01-08T00:56:32.2906602Z",
+      "ModifiedAt": "2026-01-08T00:59:22.3632023Z",
+      "ExcludeFromTargetAccumulation": false
     }
   ],
   "Logics": [
@@ -6107,6 +6523,45 @@
       "CreatedAt": "2026-01-05T23:11:39.8042631Z",
       "ModifiedAt": "2026-01-06T05:28:19.7926701Z",
       "ExecuteFirstOnly": false
+    },
+    {
+      "Id": "fa383a66-ebbe-406a-817d-8b78baf5ab27",
+      "Name": "Stun Mob",
+      "Description": "",
+      "LogicType": 0,
+      "ConditionIds": [
+        "7c68d44d-39d1-4d88-b265-a4627666ba0d"
+      ],
+      "ActionTriggers": [
+        {
+          "Id": "a1d7b502-e2bb-45a7-b1ea-e04dd57e1838",
+          "ActionId": 7540,
+          "SkillbarId": "",
+          "TTSText": "",
+          "TriggerType": 0,
+          "LogicOperator": 1,
+          "TargetType": 1,
+          "TargetSelectionStrategy": 6,
+          "SkipBuffId": 0,
+          "TargetOperation": 0,
+          "TargetDataId": 0,
+          "TargetName": "",
+          "TargetX": 0.0,
+          "TargetY": 0.0,
+          "TargetZ": 0.0,
+          "OverlayText": "",
+          "OverlayDuration": 3.0,
+          "VariableName": "",
+          "VariableType": 0,
+          "VariableBoolValue": true,
+          "VariableStringValue": "",
+          "VariableNumberValue": 0.0,
+          "VariableOperation": 0
+        }
+      ],
+      "CreatedAt": "2026-01-08T00:56:32.2906707Z",
+      "ModifiedAt": "2026-01-08T00:56:32.2906707Z",
+      "ExecuteFirstOnly": false
     }
   ],
   "QTBarConfig": {
@@ -6120,84 +6575,94 @@
     "Transparency": 255,
     "Items": [
       {
-        "Id": "73595275-5d4a-47ef-b3fb-b958d824781f",
-        "Name": "Last Boss",
-        "Description": "enables burn boss at 5%hp",
+        "Id": "80e5a42f-7cce-4607-877d-67ca6248a5df",
+        "Name": "Boss Hold",
+        "Description": "Holds cooldowns at 15 percent HP. Toggle for the first two bosses in dungeon.",
         "EventIds": [
-          "f97dfcaf-0ec7-4a05-aa20-89d26a48e419"
+          "08c75b56-6f6e-4b0c-88f7-7f58282253c4"
         ],
         "Enabled": true,
         "Position": 0
       },
       {
-        "Id": "80e5a42f-7cce-4607-877d-67ca6248a5df",
-        "Name": "Boss Hold",
-        "Description": "",
+        "Id": "969c86f4-4076-445b-8f68-b16cb511e458",
+        "Name": "Group Hold",
+        "Description": "Holds cooldowns in big pulls. Use while pulling in dungeons, toggle off for a boss fight.",
         "EventIds": [
-          "08c75b56-6f6e-4b0c-88f7-7f58282253c4"
+          "5a47325b-00d5-4e36-8843-040393757b89"
         ],
         "Enabled": true,
         "Position": 1
       },
       {
-        "Id": "969c86f4-4076-445b-8f68-b16cb511e458",
-        "Name": "Group Hold",
-        "Description": "holds cooldowns in big pulls",
+        "Id": "73595275-5d4a-47ef-b3fb-b958d824781f",
+        "Name": "Last Boss",
+        "Description": "Enables burn boss at 5 percent HP boss health. Enable this for the last boss of a dungeon, or for any trial/raid with only one phase.",
         "EventIds": [
-          "5a47325b-00d5-4e36-8843-040393757b89"
+          "f97dfcaf-0ec7-4a05-aa20-89d26a48e419"
         ],
         "Enabled": true,
         "Position": 2
       },
       {
-        "Id": "fd6236e3-f1d4-46c5-96a0-117c052adff4",
-        "Name": "AutoMit TB",
-        "Description": "Use mit on tank buster detection",
+        "Id": "1b7bb064-7498-48a8-b688-0d0dd7980028",
+        "Name": "Enable CDs",
+        "Description": "Reenables cooldowns on target of a full HP enemy. Use this in conjunction with Boss Hold and Group Hold for best results in dungeons.",
         "EventIds": [
-          "3b4c3657-448e-452f-952d-ea562cf330fb"
+          "65f5a501-e2a1-47af-9a1f-9c3b22f298a3"
         ],
         "Enabled": true,
         "Position": 3
       },
       {
-        "Id": "072fc9c0-2923-42c1-90e4-8aa220eba0a0",
-        "Name": "Rep AOE",
-        "Description": "Use Reprisal to Mit AOE",
+        "Id": "3ce7d124-9346-4fec-8723-652c8d8c9016",
+        "Name": "Stun Mob",
+        "Description": "Uses low blow in packs, turn off for boss fights.",
         "EventIds": [
-          "732a7c9a-5487-474b-bb80-91bf92cd7e74"
+          "9102ac91-a00a-4c9e-8f89-eeb23e6e85e9"
         ],
         "Enabled": true,
         "Position": 4
       },
       {
-        "Id": "64f18124-b422-43d8-b2fd-fc359af1a6d7",
-        "Name": "2 Mits AOE",
-        "Description": "",
+        "Id": "072fc9c0-2923-42c1-90e4-8aa220eba0a0",
+        "Name": "Reprisal RW",
+        "Description": "Uses Reprisal to mitigate incoming raidwide damage.",
         "EventIds": [
-          "565fe51c-9d06-4338-bb4e-ad1d0cba3e32"
+          "732a7c9a-5487-474b-bb80-91bf92cd7e74"
         ],
         "Enabled": true,
         "Position": 5
       },
       {
-        "Id": "9f65fecb-9378-499c-9c4f-88bd603bb1c5",
-        "Name": "HoL AOE",
-        "Description": "Use heart of light to mit AOE",
+        "Id": "03b523fc-3487-49c7-ac88-d9e421e422c2",
+        "Name": "Missionary RW",
+        "Description": "Uses Dark Missionary to mitigate incoming raidwide damage.",
         "EventIds": [
-          "09325808-4e89-4c09-a62e-5ea2aec65eac"
+          "791af853-2570-4b4f-a738-2ef9784b5aca"
         ],
         "Enabled": true,
         "Position": 6
       },
       {
+        "Id": "64f18124-b422-43d8-b2fd-fc359af1a6d7",
+        "Name": "2 Mits AOE",
+        "Description": "Uses a second mitigation under 40 percent HP in pulls with 3 or more enemies. Use in conjunction with 1 Mits AOE.",
+        "EventIds": [
+          "565fe51c-9d06-4338-bb4e-ad1d0cba3e32"
+        ],
+        "Enabled": true,
+        "Position": 7
+      },
+      {
         "Id": "d81f6bcd-392e-4561-a03f-2c2989e6fb45",
         "Name": "1 Mits AOE",
-        "Description": "use 1 Mit when tanking a group of adds",
+        "Description": "Uses 1 mitigation while tanking a group of 3 or more enemies.",
         "EventIds": [
           "1b066cf9-12d8-450d-866e-677d61da153d"
         ],
         "Enabled": true,
-        "Position": 7
+        "Position": 8
       },
       {
         "Id": "df6d1cc3-cd46-477a-9300-24ab349e9872",
@@ -6207,34 +6672,24 @@
           "a6cdc6d2-6171-4f55-8f53-dbde09c85e86"
         ],
         "Enabled": true,
-        "Position": 8
+        "Position": 9
       },
       {
         "Id": "016f904b-11db-4135-9de6-25bd4634bca7",
         "Name": "Buddymit",
-        "Description": "Cotank HOC",
+        "Description": "Will use Oblation on CoTank automatically in raids/trials at certain HP levels.",
         "EventIds": [
           "78f2c611-1379-41d2-a2bd-26f59e78abb9"
-        ],
-        "Enabled": true,
-        "Position": 9
-      },
-      {
-        "Id": "6794c678-5c6f-45a5-88c6-d4f19b40bdf8",
-        "Name": "Auto Opener",
-        "Description": "Onwipe opener enabled automatically",
-        "EventIds": [
-          "0f848527-2363-4851-9ca7-73666e9414b1"
         ],
         "Enabled": true,
         "Position": 10
       },
       {
-        "Id": "1b7bb064-7498-48a8-b688-0d0dd7980028",
-        "Name": "Enable CDs",
-        "Description": "",
+        "Id": "6794c678-5c6f-45a5-88c6-d4f19b40bdf8",
+        "Name": "Auto Opener",
+        "Description": "Onwipe opener enabled automatically.",
         "EventIds": [
-          "65f5a501-e2a1-47af-9a1f-9c3b22f298a3"
+          "0f848527-2363-4851-9ca7-73666e9414b1"
         ],
         "Enabled": true,
         "Position": 11
@@ -6242,7 +6697,7 @@
       {
         "Id": "c240fe0c-0feb-485e-a73b-b4724ee81e01",
         "Name": "Stance OT",
-        "Description": "Stance Management for OT",
+        "Description": "Will manage stance automatically for Off-Tanks in raids. Enable stance in the end of your opener to use this effectively.",
         "EventIds": [
           "ff269048-453d-4cee-96a3-f8634242eef1"
         ],
@@ -6251,8 +6706,8 @@
       },
       {
         "Id": "f9fa7201-45cf-4a9a-bd3f-6c4c489cf379",
-        "Name": "Invu",
-        "Description": "",
+        "Name": "Invuln",
+        "Description": "Uses invuln skill in emergencies.",
         "EventIds": [
           "969ee413-5f3f-4ce5-98dc-27d8ca75ed49"
         ],
@@ -6262,9 +6717,8 @@
     ],
     "ToggleStates": {
       "f9fa7201-45cf-4a9a-bd3f-6c4c489cf379": false,
-      "fd6236e3-f1d4-46c5-96a0-117c052adff4": false,
       "072fc9c0-2923-42c1-90e4-8aa220eba0a0": false,
-      "9f65fecb-9378-499c-9c4f-88bd603bb1c5": false,
+      "03b523fc-3487-49c7-ac88-d9e421e422c2": true,
       "64f18124-b422-43d8-b2fd-fc359af1a6d7": false,
       "d81f6bcd-392e-4561-a03f-2c2989e6fb45": false,
       "df6d1cc3-cd46-477a-9300-24ab349e9872": false,
@@ -6274,8 +6728,9 @@
       "016f904b-11db-4135-9de6-25bd4634bca7": false,
       "6794c678-5c6f-45a5-88c6-d4f19b40bdf8": false,
       "1b7bb064-7498-48a8-b688-0d0dd7980028": false,
-      "c240fe0c-0feb-485e-a73b-b4724ee81e01": true
+      "c240fe0c-0feb-485e-a73b-b4724ee81e01": true,
+      "3ce7d124-9346-4fec-8723-652c8d8c9016": true
     }
   },
-  "Version": "1.0.4"
+  "Version": "1.0.5"
 }
